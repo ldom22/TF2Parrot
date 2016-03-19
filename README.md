@@ -15,3 +15,6 @@ Tested so far in:
 - MAC OS X with screen resolution of 1366x768
 
 If it does not work on your PC please report an issue and include your operating system and screen resolution.
+
+#Download
+Download beta release [here](RELEASE/TF2Parrot.jar)
